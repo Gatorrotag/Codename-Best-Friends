@@ -1,13 +1,16 @@
-# **Codename-Best-Friends**
-This is a simple project dedicated to bringing our friendship closer together and learning the ins and outs of gamedev
+**Codename-Best-Friends**
 =======
 
-# **Team Roles (Rough Descriptions)**
+This is a simple project dedicated to bringing our friendship closer together and learning the ins and outs of gamedev
+
+
+
+**Team Roles (Rough Descriptions)**
 -------
-### Keaton
+#### Keaton
 
 
-### Lewis
+#### Lewis
 
 
-### Gator
+#### Gator
